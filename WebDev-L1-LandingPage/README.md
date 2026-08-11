@@ -66,7 +66,7 @@ Through this project, I gained practical experience in HTML5, CSS3, JavaScript, 
 
 ## 🔗 Project Links
 
-- **Live Website:** Not deployed yet
+- **Live Website:**  https://shivangi27-06.github.io/OIBSIP/
 - **GitHub Repository:** https://github.com/shivangi27-06/OIBSIP/edit/main/WebDev-L1-LandingPage
 
 
