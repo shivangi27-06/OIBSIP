@@ -72,6 +72,6 @@ Through this project, I gained practical experience in HTML5, CSS3, JavaScript, 
 
 ## 👩‍💻 Author
 
-**Shivangi**
+**Shivangi Sharma**
 
 Web Development & Design Intern
