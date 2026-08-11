@@ -53,6 +53,8 @@ WebDev-L1-LandingPage/
 ├── video.mp4
 └── README.md
 
+```
+
 ## 🎯 Outcome
 
 The final outcome of this project is a modern, responsive, and interactive landing page for NexVerse.
@@ -61,10 +63,12 @@ The website provides an engaging user experience through responsive layouts, ani
 
 Through this project, I gained practical experience in HTML5, CSS3, JavaScript, responsive web design, UI design, animations, and GitHub-based project management.
 
+
 ## 🔗 Project Links
 
 - **Live Website:** Not deployed yet
 - **GitHub Repository:** https://github.com/shivangi27-06/OIBSIP/edit/main/WebDev-L1-LandingPage
+
 
 ## 👩‍💻 Author
 
