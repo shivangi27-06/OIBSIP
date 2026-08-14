@@ -42,9 +42,9 @@ The website is designed with a futuristic and professional look to present the N
 ```text
 WebDev-L1-LandingPage/
 │
-├── index.html
-├── style.css
-├── script.js
+├── index2.html
+├── css2.css
+├── script2.js
 ├── img1.jpeg
 ├── img2.jpeg
 ├── img3.jpeg
